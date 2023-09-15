@@ -17,4 +17,3 @@ def error_message_detail(error, error_detail:sys):
         def __str__(self):
             return self.error_message
         
-    
